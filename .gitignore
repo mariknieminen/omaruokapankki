@@ -1,0 +1,14 @@
+chroma/
+chroma.log
+.env.*
+node_modules
+.venv
+.venv311
+__pycache__/
+*.pyc
+*.db
+chat_history.json
+session.json
+sessions.json
+# Large vector database files
+session-3-ai-agents/agents/*/memory/data/vector_db/
